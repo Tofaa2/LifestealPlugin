@@ -1,0 +1,15 @@
+only-players: "&cOnly players can execute this command."
+no-permission: "&cNo permission to execute this command."
+cmd-permission: "lifesteal.admin"
+cmd-usage: "&cCorrect Usage: /lifesteal <add/remove/set> <player> <hearts>"
+invalid-player: "&cInvalid player."
+cmd-insert-number: "&cPlease insert a number."
+cmd-invalid-amount: "&cInvalid amount."
+
+default-health: 20
+
+mobs-lose: true
+lose-amount: 2
+gain-amount: 2
+max-health: 40
+death-command: "ban %playerName% 1d &cYou died."

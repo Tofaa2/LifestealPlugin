@@ -1,0 +1,12 @@
+name: HealthSMP
+version: '${project.version}'
+main: com.xfn14.dev.spigot.App
+api-version: 1.18
+authors: [ xfn14 ]
+description: A simple plugin to manage health on a SMP server
+website: https://xfn14.com
+depend: [PlaceholderAPI]
+commands:
+  lifesteal:
+    description: Give hearths to players.
+    aliases: [ls, lsc, lifestealcore]
